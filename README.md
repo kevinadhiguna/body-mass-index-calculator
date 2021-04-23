@@ -23,3 +23,5 @@ python bmi.py
 [+] Healthy<br>
 [+] Overweight<br>
 [+] Severely Overweight
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/body-mass-index-calculator)](https://github.com/kevinadhiguna)
