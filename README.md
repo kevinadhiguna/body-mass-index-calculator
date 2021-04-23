@@ -8,20 +8,24 @@ It's very simple and fast. You just need to input your height(m) and weight(kg).
 ```
 git clone https://github.com/kevinadhiguna/bmi-calculator.git
 ```
+
 2) Install dependencies :
 ```
 pip install -r requirements.txt
 ```
+
 3) Run program :
 ```
 python bmi.py
 ```
+
 4) Put the URL of the website
+
 5) The script will tell your body mass index like below :<br>
-[+] Severely Underwieght<br>
-[+] Underweight<br>
-[+] Healthy<br>
-[+] Overweight<br>
-[+] Severely Overweight
+- [x] Severely Underwieght<br>
+- [x] Underweight<br>
+- [x] Healthy<br>
+- [x] Overweight<br>
+- [x] Severely Overweight
 
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/body-mass-index-calculator)](https://github.com/kevinadhiguna)
