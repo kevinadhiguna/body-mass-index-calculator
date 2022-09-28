@@ -23,4 +23,5 @@ python bmi.py
 - [x] Overweight<br>
 - [x] Severely Overweight
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/body-mass-index-calculator)](https://github.com/kevinadhiguna)
+
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=body-mass-index-calculator&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
